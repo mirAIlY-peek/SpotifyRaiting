@@ -1,0 +1,11 @@
+{
+  "name": "miras",
+  "version": "1.0.0",
+  "description": "This project is a complex web application that integrates Spotify API for music functions and News API for news functions. Backend is developed in Node.js using Express and user data is stored in MongoDB. Frontend is implemented in React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
